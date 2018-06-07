@@ -1,0 +1,4 @@
+{
+  "BackupFrequencyInHours": 4,
+  "NumBackupsToKeep": 6
+}

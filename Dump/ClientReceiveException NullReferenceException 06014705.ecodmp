@@ -1,0 +1,22 @@
+--BEGIN DUMP--
+Dump Time
+06/01/2018 17:47:05
+
+Exception
+Exception: NullReferenceException
+Message:Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+Source:Eco.Gameplay
+
+System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   at Eco.Gameplay.Housing.HousingComponent.Initialize()
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Eco.Gameplay.Objects.WorldObject.FinishInitialize()
+   at Eco.Gameplay.Objects.WorldObject.OnAdd(User creator, Vector3 position, Quaternion rotation)
+   at Eco.Gameplay.Objects.WorldObjectManager.Add(WorldObject worldObject, User creator, Vector3 position, Quaternion rotation)
+   at Eco.Gameplay.Objects.WorldObjectManager.TryToAdd(Type worldObjectType, User creator, Vector3 position, Quaternion rotation, Boolean validatePlacement, WorldObjectItem item)
+   at Eco.Gameplay.Objects.WorldObjectManager.TryPlaceWorldObject(Player player, WorldObjectItem item, Vector3i pos, Quaternion rot)
+   at Eco.Gameplay.Items.WorldObjectItem.<>c__DisplayClass13_0.<OnActRight>b__0(BSONObject response)
+   at Eco.Shared.Networking.RPCManager.HandleQueryResponse(BSONObject bson)
+   at Eco.Plugins.Networking.Client.<.ctor>b__52_1()
+
+--END DUMP--

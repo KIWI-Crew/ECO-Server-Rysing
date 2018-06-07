@@ -1,0 +1,19 @@
+--BEGIN DUMP--
+Dump Time
+06/07/2018 18:11:43
+
+Exception
+Exception: FormatException
+Message:Es wurde eine ungültige IP-Adresse angegeben.
+Source:System
+
+System.FormatException: Es wurde eine ungültige IP-Adresse angegeben.
+   at System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   at Eco.Plugins.Networking.NetworkServer.Initialize()
+   at Eco.Plugins.Networking.NetworkManager.Run()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+--END DUMP--

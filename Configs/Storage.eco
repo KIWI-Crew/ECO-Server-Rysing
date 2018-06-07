@@ -1,0 +1,5 @@
+{
+  "SaveFrequency": 60,
+  "CompressionLevel": "Default",
+  "CleanupFilesOnExceptions":  false
+}

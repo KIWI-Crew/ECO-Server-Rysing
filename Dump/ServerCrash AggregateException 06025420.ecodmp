@@ -1,0 +1,15 @@
+--BEGIN DUMP--
+Dump Time
+06/02/2018 15:54:20
+
+Exception
+Exception: ArgumentException
+Message:Could not cast or convert from System.Int64 to Eco.Plugins.DiscordLink.ChannelLink.
+Source:Newtonsoft.Json
+
+System.ArgumentException: Could not cast or convert from System.Int64 to Eco.Plugins.DiscordLink.ChannelLink.
+   at Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   at Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+
+--END DUMP--

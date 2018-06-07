@@ -1,0 +1,10 @@
+{
+  "ScytheRadiusSkill.enabled": true,
+  "ScytheRadiusSkill.SkillPointCost.1": 5,
+  "ScytheRadiusSkill.SkillPointCost.2": 10,
+  "ScytheRadiusSkill.SkillPointCost.3": 25,
+  "HoeRadiusSkill.enabled": true,
+  "HoeRadiusSkill.SkillPointCost.1": 5,
+  "HoeRadiusSkill.SkillPointCost.2": 10,
+  "HoeRadiusSkill.SkillPointCost.3": 25
+}

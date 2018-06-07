@@ -1,0 +1,10 @@
+{
+    "PublicServer": true,
+    "Password": "",
+    "Description": "Testserver by RysingTV", //Servername
+    "IPAddress": "192.168.2.104", //Server IP Adresse
+    "GameServerPort": 28100, //Standart 28100
+    "WebServerPort": 28101, //Standart 28101
+    "Rate": 10,
+    "MaxConnections": -1  //Server Slots
+}

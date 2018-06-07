@@ -1,0 +1,30 @@
+--BEGIN DUMP--
+Dump Time
+06/02/2018 10:37:10
+
+Exception
+Exception: FileNotFoundException
+Message:Die Datei oder Assembly "Asphalt-ModKit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" oder eine Abhängigkeit davon wurde nicht gefunden. Das System kann die angegebene Datei nicht finden.
+Source:mscorlib
+
+System.IO.FileNotFoundException: Die Datei oder Assembly "Asphalt-ModKit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" oder eine Abhängigkeit davon wurde nicht gefunden. Das System kann die angegebene Datei nicht finden.
+File name: 'Asphalt-ModKit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.ModuleHandle.ResolveType(RuntimeModule module, Int32 typeToken, IntPtr* typeInstArgs, Int32 typeInstCount, IntPtr* methodInstArgs, Int32 methodInstCount, ObjectHandleOnStack type)
+   at System.ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, Int32 typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+   at System.Reflection.RuntimeModule.ResolveType(Int32 metadataToken, Type[] genericTypeArguments, Type[] genericMethodArguments)
+   at System.Reflection.CustomAttribute.FilterCustomAttributeRecord(CustomAttributeRecord caRecord, MetadataImport scope, Assembly& lastAptcaOkAssembly, RuntimeModule decoratedModule, MetadataToken decoratedToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, Object[] attributes, IList derivedAttributes, RuntimeType& attributeType, IRuntimeMethodInfo& ctor, Boolean& ctorHasParameters, Boolean& isVarArg)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType, Boolean mustBeInheritable, IList derivedAttributes, Boolean isDecoratedTargetSecurityTransparent)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeType type, RuntimeType caType, Boolean inherit)
+   at Eco.Core.Serialization.SimpleSerializer.<>c.<InitializeSerializableTypes>b__26_2(<>f__AnonymousType0`2 <>h__TransparentIdentifier0)
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at Eco.Core.Serialization.SimpleSerializer.InitializeSerializableTypes()
+   at Eco.Core.Serialization.SimpleSerializer..cctor()
+
+WRN: Protokollierung der Assemblybindung ist AUS.
+Sie können die Protokollierung der Assemblybindungsfehler aktivieren, indem Sie den Registrierungswert [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) auf 1 festlegen.
+Hinweis: Die Protokollierung der Assemblybindungsfehler führt zu einer gewissen Leistungseinbuße.
+Sie können dieses Feature deaktivieren, indem Sie den Registrierungswert [HKLM\Software\Microsoft\Fusion!EnableLog] entfernen.
+
+--END DUMP--

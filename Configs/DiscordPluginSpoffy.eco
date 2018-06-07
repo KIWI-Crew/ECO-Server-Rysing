@@ -1,0 +1,13 @@
+{
+  "PlayerConfigs": [
+    {
+      "Username": "RysingTV",
+      "DefaultChannel": {
+        "Guild": "KIWI Crew",
+        "Channel": " eco"
+      }
+    }
+  ],
+  "ChannelLinks": [],
+  "Debug": false
+}

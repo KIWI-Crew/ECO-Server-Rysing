@@ -1,0 +1,31 @@
+"AppState"
+{
+	"appid"		"739590"
+	"Universe"		"1"
+	"name"		"Eco Server"
+	"StateFlags"		"4"
+	"installdir"		"Eco Server"
+	"LastUpdated"		"1527271142"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"23355935"
+	"buildid"		"2807506"
+	"LastOwner"		"76561198154173420"
+	"BytesToDownload"		"9222128"
+	"BytesDownloaded"		"9222128"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+	}
+	"InstalledDepots"
+	{
+		"739591"
+		{
+			"manifest"		"2957743155359298037"
+		}
+	}
+	"MountedDepots"
+	{
+		"739591"		"2957743155359298037"
+	}
+}

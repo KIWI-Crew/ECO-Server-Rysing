@@ -1,0 +1,21 @@
+--BEGIN DUMP--
+Dump Time
+06/02/2018 10:38:24
+
+Exception
+Exception: Exception
+Message:Error in FishingPoleItem at 19: Dem Feld 'Eco.Mods.TechTree.FishingPoleItem.caloriesBurn' wird nie etwas zugewiesen, und es hat immer seinen Standardwert von 'null'. (CS0649)
+Error in FishingPoleItem at 20: Das Feld 'Eco.Mods.TechTree.FishingPoleItem.damage' wird nie verwendet. (CS0169)
+Error in  at 0: In die Ausgabedatei 'd:\home\sid_399732\eco\Eco.Mods.dll' konnte nicht geschrieben werden -- 'Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird. ' (CS0016)
+
+Source:Eco.ModKit
+
+System.Exception: Error in FishingPoleItem at 19: Dem Feld 'Eco.Mods.TechTree.FishingPoleItem.caloriesBurn' wird nie etwas zugewiesen, und es hat immer seinen Standardwert von 'null'. (CS0649)
+Error in FishingPoleItem at 20: Das Feld 'Eco.Mods.TechTree.FishingPoleItem.damage' wird nie verwendet. (CS0169)
+Error in  at 0: In die Ausgabedatei 'd:\home\sid_399732\eco\Eco.Mods.dll' konnte nicht geschrieben werden -- 'Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird. ' (CS0016)
+
+   at Eco.ModKit.RuntimeCompiler.HandleCompilerError(CompilerResults results)
+   at Eco.ModKit.RuntimeCompiler.LoadOrCompileMods()
+   at Eco.ModKit.ModKitPlugin..ctor(ManualResetEvent doneEvent)
+
+--END DUMP--

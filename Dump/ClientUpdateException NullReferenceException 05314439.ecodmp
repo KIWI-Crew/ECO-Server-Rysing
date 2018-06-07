@@ -1,0 +1,23 @@
+--BEGIN DUMP--
+Dump Time
+05/31/2018 11:44:39
+
+Exception
+Exception: NullReferenceException
+Message:Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+Source:mscorlib
+
+System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Eco.Gameplay.Systems.Tooltip.SpeciesTooltip.Get(Species species)
+   at Eco.Gameplay.Players.WelcomeMessage.<>c.<Get>b__2_8(<>f__AnonymousType18`2 <>h__TransparentIdentifier5)
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at Eco.Gameplay.Systems.Tooltip.TooltipExtensions.FoldoutList(IEnumerable`1 list, LocString itemNounSingular, Int32 max)
+   at Eco.Gameplay.Players.WelcomeMessage.Get(Player player)
+   at Eco.Gameplay.Systems.Chat.ChatManager.Eco.Shared.Networking.INetObject.SendInitialState(BSONObject bsonObj, INetObjectViewer viewer)
+   at Eco.Shared.Networking.NetObjectManager.GetInitialObjectStates(IEnumerable`1 newObjects, INetObjectViewer viewer, INetObjectContainer monitored)
+   at Eco.Plugins.Networking.Client.Update()
+   at Eco.Plugins.Networking.Client.<.ctor>b__52_0()
+
+--END DUMP--

@@ -1,0 +1,25 @@
+--BEGIN DUMP--
+Dump Time
+05/30/2018 17:01:47
+
+Exception
+Exception: SocketException
+Message:Normalerweise darf jede Socketadresse (Protokoll, Netzwerkadresse oder Anschluss) nur jeweils einmal verwendet werden
+Source:System
+NativeErrorCode:10048
+ErrorCode:10048
+
+System.Net.Sockets.SocketException (0x80004005): Normalerweise darf jede Socketadresse (Protokoll, Netzwerkadresse oder Anschluss) nur jeweils einmal verwendet werden
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Lidgren.Network.NetPeer.BindSocket(Boolean reBind)
+   at Lidgren.Network.NetPeer.InitializeNetwork()
+   at Lidgren.Network.NetPeer.Start()
+   at Eco.Plugins.Networking.NetworkServer.Initialize()
+   at Eco.Plugins.Networking.NetworkManager.Run()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart(Object obj)
+
+--END DUMP--

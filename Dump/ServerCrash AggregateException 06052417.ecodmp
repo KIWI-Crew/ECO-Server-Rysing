@@ -1,0 +1,14 @@
+--BEGIN DUMP--
+Dump Time
+06/05/2018 17:24:17
+
+Exception
+Exception: ArgumentException
+Message:World layer TunaCapacity voxels-per-entry (40) must evenly divide the world size ((2500, 2500))!
+Source:Eco.Simulation
+
+System.ArgumentException: World layer TunaCapacity voxels-per-entry (40) must evenly divide the world size ((2500, 2500))!
+   at Eco.Simulation.WorldLayers.WorldLayerManager.InitLayers(LayerInitOperation operation)
+   at Eco.Simulation.EcoSim.Regenerate()
+
+--END DUMP--

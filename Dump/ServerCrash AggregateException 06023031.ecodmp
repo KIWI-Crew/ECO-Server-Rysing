@@ -1,0 +1,19 @@
+--BEGIN DUMP--
+Dump Time
+06/02/2018 04:30:31
+
+Exception
+Exception: NullReferenceException
+Message:Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+Source:Eco.Gameplay
+
+System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   at Eco.Gameplay.Housing.HousingComponent.Initialize()
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Eco.Gameplay.Objects.WorldObject.FinishInitialize()
+   at Eco.Gameplay.Objects.WorldObjectManager.<>c__DisplayClass13_0.<Eco.Core.Plugins.Interfaces.IInitializablePlugin.Initialize>b__1(KeyValuePair`2 pair)
+   at System.Threading.Tasks.Parallel.<>c__DisplayClass42_0`2.<PartitionerForEachWorker>b__1()
+   at System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+   at System.Threading.Tasks.Task.<>c__DisplayClass176_0.<ExecuteSelfReplicating>b__0(Object )
+
+--END DUMP--

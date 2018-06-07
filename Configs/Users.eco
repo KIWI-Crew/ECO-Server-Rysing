@@ -1,0 +1,116 @@
+{
+    "RequireAuthentication": true,
+    "AllowDebugCalls": true,
+    "WhiteList": {
+        "System.String": {
+            "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+            "$values": []
+        }
+    },
+    "BlackList": {
+        "System.String": {
+            "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+            "$values": []
+        }
+    },
+    "Admins": {
+        "System.String": {
+            "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+            "$values": [
+                76561197997542275,
+                76561198011121963,
+                76561198035596143
+            ]
+        }
+    },
+    "SpawnLocation": {
+        "x": 330,
+        "y": 0,
+        "z": 130
+    },
+    "UseExactSpawnLocation": false,
+    "Reputations": {
+        "Eco.Gameplay.Economy.ReputationTitle": {
+            "$type": "System.Collections.Generic.List`1[[Eco.Gameplay.Economy.ReputationTitle, Eco.Gameplay]], mscorlib",
+            "$values": [
+                {
+                    "MaxReputation": -500,
+                    "Title": "Reprehensible"
+                },
+                {
+                    "MaxReputation": -200,
+                    "Title": "Abhorred"
+                },
+                {
+                    "MaxReputation": -100,
+                    "Title": "Nefarious"
+                },
+                {
+                    "MaxReputation": -50,
+                    "Title": "Shunned"
+                },
+                {
+                    "MaxReputation": -20,
+                    "Title": "Ill-Regarded"
+                },
+                {
+                    "MaxReputation": -10,
+                    "Title": "Unfavorable"
+                },
+                {
+                    "MaxReputation": -5,
+                    "Title": "Questionable"
+                },
+                {
+                    "MaxReputation": -2,
+                    "Title": "Uncertain"
+                },
+                {
+                    "MaxReputation": -1,
+                    "Title": "Unknown"
+                },
+                {
+                    "MaxReputation": 1,
+                    "Title": "Unknown"
+                },
+                {
+                    "MaxReputation": 2,
+                    "Title": "Helpful"
+                },
+                {
+                    "MaxReputation": 5,
+                    "Title": "Respected"
+                },
+                {
+                    "MaxReputation": 10,
+                    "Title": "Friendly"
+                },
+                {
+                    "MaxReputation": 20,
+                    "Title": "Well-Regarded"
+                },
+                {
+                    "MaxReputation": 50,
+                    "Title": "Esteemed"
+                },
+                {
+                    "MaxReputation": 100,
+                    "Title": "Celebrated"
+                },
+                {
+                    "MaxReputation": 200,
+                    "Title": "Honored"
+                },
+                {
+                    "MaxReputation": 500,
+                    "Title": "Revered"
+                },
+                {
+                    "MaxReputation": 1000,
+                    "Title": "Exalted"
+                }
+            ]
+        }
+    },
+    "MaxSlots": 16
+}

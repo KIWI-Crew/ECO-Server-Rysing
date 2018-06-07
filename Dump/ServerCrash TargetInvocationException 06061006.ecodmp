@@ -1,0 +1,51 @@
+--BEGIN DUMP--
+Dump Time
+06/06/2018 17:10:06
+
+Exception
+Exception: Exception
+Message:Error in BasicEngineering at 46: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in BrickConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bricklaying at 46: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in CementConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in GlassConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Glassworking at 46: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in HewnLogConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Lumber at 44: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in LumberConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in MortaredStoneConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in PaperMilling at 44: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in SteelConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 69: Der Typ- oder Namespacename 'MetalConstructionSkillBook' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 74: Der Typ- oder Namespacename 'StoneConstructionSkillBook' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 76: Der Typ- oder Namespacename 'WoodConstructionSkillBook' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 96: Der Typ- oder Namespacename 'MetalConstructionSkillScroll' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 101: Der Typ- oder Namespacename 'StoneConstructionSkillScroll' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 103: Der Typ- oder Namespacename 'WoodConstructionSkillScroll' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+
+Source:Eco.ModKit
+
+System.Exception: Error in BasicEngineering at 46: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in BrickConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bricklaying at 46: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in CementConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in GlassConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Glassworking at 46: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in HewnLogConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Lumber at 44: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in LumberConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in MortaredStoneConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in PaperMilling at 44: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in SteelConstruction at 22: Der Typ- oder Namespacename 'BuilderSkill' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 69: Der Typ- oder Namespacename 'MetalConstructionSkillBook' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 74: Der Typ- oder Namespacename 'StoneConstructionSkillBook' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 76: Der Typ- oder Namespacename 'WoodConstructionSkillBook' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 96: Der Typ- oder Namespacename 'MetalConstructionSkillScroll' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 101: Der Typ- oder Namespacename 'StoneConstructionSkillScroll' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+Error in Bookshelf at 103: Der Typ- oder Namespacename 'WoodConstructionSkillScroll' konnte nicht gefunden werden. (Fehlt eine Using-Direktive oder ein Assemblyverweis?) (CS0246)
+
+   at Eco.ModKit.RuntimeCompiler.HandleCompilerError(CompilerResults results)
+   at Eco.ModKit.RuntimeCompiler.LoadOrCompileMods()
+   at Eco.ModKit.ModKitPlugin..ctor(ManualResetEvent doneEvent)
+
+--END DUMP--

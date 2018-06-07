@@ -1,0 +1,43 @@
+Licensing
+Terms and Conditions
+Downloading or using any of my mods constitutes a complete and unconditional agreement with these terms!
+
+As is necessity, I reserve the right to make changes to these terms at any time and grant exceptions if I so desire.
+All permissions and exceptions are non-transferrable and revocable.
+The terms only apply so long as you actually use and/or own copies of the mods; if you wish to terminate the agreement with these conditions, you may do so by uninstalling the mods and deleting the downloads.
+In the event that any clause or part thereof of this license proves unenforceable or invalid, it will be replaced by the closest usable variant, or removed if no such possibility exists. Under no circumstances does the failure of one part of this license impact the remainder.
+
+0. USED TERMS
+MOD – modification, plugin, a piece of software that interfaces with the Eco/Unity client or server to extend, add, change or remove original capabilities.
+SLG – STRANGE LOOP GAMES – Eco Dev Studio, Seattle, WA
+OWNER – Shawn P. aka “Pradoxzon”
+USER – End user of the mod, i.e., the person installing the mod
+PRIVATE – Personal use
+PUBLIC – Any usage that involves more than one person
+WEBSITE – Pradoxzon’s website – pradoxzon.squarespace.com
+
+1. LIABILITY
+These MODs are provided 'as is' with no warranties, implied or otherwise. The OWNER of these mods takes no responsibility for any damages incurred from the use of these mods. These mods alter fundamental parts of the Eco game, all damages caused from the use or misuse of these mods fall on the USER.
+
+2. USE
+These MODs may be used for the purpose of playing or pack creation as the USER sees fit. They may not be used to generate profit, circumvent the law, or other use contrary to their original function.
+
+3. REDISTRIBUTION
+These MODs may not be uploaded or mirrored by anyone other than the OWNER, and all links to these mods must link the WEBSITE or the MOD’s download page on the WEBSITE. Links are not allowed to adfly, GoogleDrive, Dropbox, MediaFire, or Curse. Any unauthorized links to the MODs that bypass or do not lead directly to the WEBSITE will be discovered and forced to be deleted.
+
+4. DERIVATIVE WORKS
+These MODs are provided freely to the USER, and the material can be copied in any medium or format for your PRIVATE use. PUBLIC use of modified or derivative versions is prohibited unless you are given specific written permission. Distribution of the source code, modified (including custom compilation) or otherwise, is prohibited by anyone except the OWNER, except in the case of a derivative mod that has been given prior approval. Creating derivative works for commercial use is expressly forbidden and the OWNER reserves full right to seek damages.
+
+5. ADDONS AND MODIFICATIONS
+Addons and modifications that use none of the MODs' source code can be made and released freely and distributed as the creator sees fit. However, if the OWNER feels that an addon or modification's sole purpose is to damage one of his MODs - such as by hurting its compatibility with other mods, breaking features, damaging the balance, or fundamentally damaging how it was designed – the OWNER reserves the right to revoke this permission and prevent it from being used in conjunction with his MODs.
+
+6. MONETIZATION
+Any attempts to make money off of these MODs (selling, selling modified/derivative versions, adfly, sharecash, donations, ad revenue, etc.) are strictly forbidden, and the OWNER may claim damages or take other action to rectify the situation. Servers hosting the pack may take donations to cover operating costs, but not for personal profit. Additionally, the MODs' behaviors may not be edited – such as by making some items unobtainable – to encourage or coerce players to pay or donate to the pack or server host. 
+
+7. LICENSING
+The USER must agree to the entirety of this license in full in order to use the MODs or include it in a pack. Use of the MODs constitutes implicit and unconditional agreement to these terms.
+The OWNER of these MODs reserves the right to change this license as is deemed necessary without prior warning, though such warning may and likely will be provided at the OWNER’s discretion. Such changes take effect immediately; it is not required to explicitly agree nor update the MODs.
+
+8. COST
+This software and MODs are provided free of charge for all USERs. If you obtained this software from any other source, or paid money to access it, you have been scammed. Get a refund immediately, and report the scammer to the OWNER.
+

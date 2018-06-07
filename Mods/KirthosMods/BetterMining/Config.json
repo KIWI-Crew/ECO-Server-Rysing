@@ -1,0 +1,21 @@
+{
+  "PickupRubbleBySkillLevel": 4,
+  "MiningPickupAmountSkill.enabled": true,
+  "MiningPickupAmountSkill.SkillPointCost.1": 5,
+  "MiningPickupAmountSkill.SkillPointCost.2": 7,
+  "MiningPickupAmountSkill.SkillPointCost.3": 10,
+  "MiningPickupAmountSkill.SkillPointCost.4": 15,
+  "MiningPickupAmountSkill.SkillPointCost.5": 20,
+  "MiningPickupRangeSkill.enabled": true,
+  "MiningPickupRangeSkill.SkillPointCost.1": 5,
+  "MiningPickupRangeSkill.SkillPointCost.2": 7,
+  "MiningPickupRangeSkill.SkillPointCost.3": 10,
+  "MiningPickupRangeSkill.SkillPointCost.4": 15,
+  "MiningPickupRangeSkill.SkillPointCost.5": 20,
+  "StrongMiningSkill.enabled": true,
+  "StrongMiningSkill.SkillPointCost.1": 5,
+  "StrongMiningSkill.SkillPointCost.2": 10,
+  "StrongMiningSkill.SkillPointCost.3": 15,
+  "StrongMiningSkill.SkillPointCost.4": 30,
+  "StrongMiningSkill.SkillPointCost.5": 50
+}

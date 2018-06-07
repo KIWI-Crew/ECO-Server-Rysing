@@ -1,0 +1,12 @@
+{
+  "WoodPulpCleanerSkill.enabled": true,
+  "WoodPulpCleanerSkill.SkillPointCost.1": 5,
+  "WoodPulpCleanerSkill.SkillPointCost.2": 7,
+  "WoodPulpCleanerSkill.SkillPointCost.3": 10,
+  "WoodPulpCleanerSkill.SkillPointCost.4": 15,
+  "WoodPulpCleanerSkill.SkillPointCost.5": 20,
+  "StumpCleanerSkill.enabled": true,
+  "StumpCleanerSkill.SkillPointCost.1": 25,
+  "ExpertLumbererSkill.enabled": true,
+  "ExpertLumbererSkill.SkillPointCost.1": 50
+}

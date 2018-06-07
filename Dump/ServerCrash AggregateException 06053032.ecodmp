@@ -1,0 +1,19 @@
+--BEGIN DUMP--
+Dump Time
+06/05/2018 04:30:32
+
+Exception
+Exception: KeyNotFoundException
+Message:Der angegebene Schlüssel war nicht im Wörterbuch angegeben.
+Source:mscorlib
+
+System.Collections.Generic.KeyNotFoundException: Der angegebene Schlüssel war nicht im Wörterbuch angegeben.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Eco.Gameplay.Minimap.MinimapManager.UpdateChunkMap(Vector2i chunkPos, ChunkMap chunkMap, Func`2 getValue)
+   at Eco.Gameplay.Minimap.MinimapManager.<>c__DisplayClass38_0.<InitChunkMaps>b__0(Vector2i chunkPos)
+   at System.Threading.Tasks.Parallel.<>c__DisplayClass42_0`2.<PartitionerForEachWorker>b__1()
+   at System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+   at System.Threading.Tasks.Task.<>c__DisplayClass176_0.<ExecuteSelfReplicating>b__0(Object )
+
+--END DUMP--
